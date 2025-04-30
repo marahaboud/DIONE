@@ -11,4 +11,4 @@
 * animate.css
 * BEM methodology
 
-**see it live** [here](https://jsmaom.github.io/DIONE/)
+**see it live** [here](https://marahaboud.github.io/DIONE/)
